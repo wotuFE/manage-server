@@ -1,2 +1,2 @@
 # store-server
-store的后台node接口
+沃土前端管理系统后台node接口
